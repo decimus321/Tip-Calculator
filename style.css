@@ -4,14 +4,14 @@
 }
 
 body {
-  background: #8990ec;
+  background: #989a99;
 }
 
 .wrapper {
   height: 525px;
   width: 360px;
   color: white;
-  background: #272639;
+  background: #24232f;
   border-radius: 1rem;
   padding: 1.2rem;
   margin: 100px auto;
@@ -48,7 +48,7 @@ body {
 }
 
 .buttonContainer {
-  background: #8990ec;
+  background: #8f8d8d;
   display: grid;
   place-items: center;
   width: 1.6rem;
